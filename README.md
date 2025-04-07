@@ -1,7 +1,7 @@
 # Coding Temple Module 7 Knowledge Check Assignment
 ## Open Trivia Database Quiz App
 
-In this assignment we were tasked with creating a simple quiz application using React by pullling questions and answers from the [Open Trivia Database API] (https://opentdb.com/)
+In this assignment we were tasked with creating a simple quiz application using React by pullling questions and answers from the Open Trivia Database API (https://opentdb.com/)
 
 ### App Requirements:
 1. **Home Page**: Welcome Message and instructions
